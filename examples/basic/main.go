@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ninja-software/terror/v2"
+	"github.com/salvationdao/terror"
 )
 
 // example of simple basic error

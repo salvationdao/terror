@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ninja-software/terror/v2"
+	"github.com/salvationdao/terror"
 )
 
 // example of warn, with callback
